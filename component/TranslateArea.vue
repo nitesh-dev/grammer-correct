@@ -11,7 +11,7 @@ const props = defineProps<{
 }>()
 
 
-const languages = ['English', 'Hindi']
+const languages = ['English', 'Hindi', 'Turkish', 'Arabic', 'Italian', 'Spanish', 'French', 'German']
 
 
 </script>
